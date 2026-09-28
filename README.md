@@ -11,6 +11,25 @@ A modern, responsive, and robust Flutter customer management application built f
 
 ---
 
+## 📸 App Previews
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <b>🔐 User Authentication & Authorization</b><br/><br/>
+        <img src="assets/screenshots/login_screen.png" width="280" alt="Login Screen" />
+      </td>
+      <td align="center">
+        <b>👥 Customer Accounts & Infinite Pagination</b><br/><br/>
+        <img src="assets/screenshots/customer_list_screen.png" width="280" alt="Customer List Screen" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## 🚀 Key Features
 
 * **State Management**: Built with **Provider** (`ChangeNotifierProvider`), following strict reactive state separation and clean dependency injection.
@@ -41,6 +60,11 @@ A modern, responsive, and robust Flutter customer management application built f
 The app follows **Clean Architecture & MVVM (Model-View-ViewModel)** principles:
 
 ```
+assets/
+└── screenshots/
+    ├── login_screen.png             # UI preview: Authentication screen
+    └── customer_list_screen.png     # UI preview: Paginated customer accounts
+
 lib/
 ├── core/
 │   ├── constants/
