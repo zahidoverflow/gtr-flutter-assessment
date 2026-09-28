@@ -4,6 +4,7 @@ A modern, responsive, and robust Flutter customer management application built f
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.47+-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-3.13+-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
+[![Release APK](https://img.shields.io/badge/Download-Release_APK-success?style=for-the-badge&logo=android&logoColor=white)](https://github.com/zahidoverflow/gtr-flutter-assessment/releases/latest)
 [![Architecture](https://img.shields.io/badge/Architecture-Clean_MVVM-teal?style=for-the-badge)]()
 [![State Management](https://img.shields.io/badge/State-Provider-blue?style=for-the-badge)]()
 [![Tests](https://img.shields.io/badge/Tests-Passing_100%25-success?style=for-the-badge)]()
