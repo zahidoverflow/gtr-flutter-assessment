@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.gtr_customer_app"
+    namespace = "com.gtr.gtr_customer_app"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
