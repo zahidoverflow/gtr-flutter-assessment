@@ -142,9 +142,7 @@ flutter run
 
 ---
 
-## 📦 Project Submission Details
+## 📦 Project Submission
 
 * **Candidate**: Zahidul Islam
 * **Email**: zahidoverflow@gmail.com
-* **Phone / WhatsApp**: +8801707370774
-* **Position**: Flutter Intern — GTR (gtrbd.com)
